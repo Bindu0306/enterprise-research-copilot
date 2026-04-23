@@ -1,8 +1,8 @@
 # Enterprise Research Copilot — Written Report
 
-**Author:** Adhithya
+**Author:** Bindu 
 **Assignment:** Wipro Junior FDE Pre-screening
-**Date:** April 2024
+**Date:** April 2026
 
 ---
 

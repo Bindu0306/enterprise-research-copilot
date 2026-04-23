@@ -3,7 +3,7 @@
 > A secure multi-agent AI system that researches any topic and generates a structured business report through collaboration between four specialized AI agents.
 
 **Built for:** Wipro Junior FDE Pre-screening Assignment
-**Built by:** Adhithya
+**Built by:** Bindu
 **GitHub:** [github.com/Bindu0306](https://github.com/Bindu0306)
 
 ---
@@ -273,4 +273,4 @@ This system directly addresses a real consulting problem. Research and report ge
 ---
 
 *Built with LangGraph + Groq + Wikipedia + Streamlit*
-*Wipro Junior FDE Pre-screening Assignment — April 2024*
+*Wipro Junior FDE Pre-screening Assignment — April 2026*
