@@ -5,6 +5,7 @@
 **Built for:** Wipro Junior FDE Pre-screening Assignment
 **Built by:** Bindu
 **GitHub:** [github.com/Bindu0306](https://github.com/Bindu0306)
+**Live Demo:** [Enterprise Research Copilot](https://enterprise-research-copilot-t3vvsslu3fvtxievhrwtmz.streamlit.app/)
 
 ---
 
