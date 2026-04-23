@@ -4,3 +4,7 @@ streamlit
 pydantic
 wikipedia
 python-dotenv
+groq
+jsonschema
+pytest
+fpdf2
