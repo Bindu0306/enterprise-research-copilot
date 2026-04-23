@@ -68,7 +68,7 @@ def run_writer(state: ResearchState) -> ResearchState:
         if not raw_report or not raw_report.strip():
             raise ValueError("Writer returned empty report")
 
-        if len(raw_report.strip()) < 200:
+        if len(raw_report.strip()) < 100:
             raise ValueError(
                 f"Report too short: {len(raw_report)} characters"
             )
