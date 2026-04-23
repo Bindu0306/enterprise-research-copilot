@@ -1,0 +1,6 @@
+anthropic
+langgraph
+streamlit
+pydantic
+wikipedia
+python-dotenv
